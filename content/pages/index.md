@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, soy Mauricio Posada Hincapie, soy Médico y Marketer Digital'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Me enfoco en el Growth hacking marketing aplicado al area medica
+      #marketingmédico y el marketing de afiliación
   - section_id: about
     type: section_content
     title: About
