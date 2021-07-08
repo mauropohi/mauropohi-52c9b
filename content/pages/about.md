@@ -31,12 +31,22 @@ seo:
 layout: page
 subtitle: Esta es una breve página sobre mi y cómo llegué hasta aquí
 ---
+Mi nombre es **Mauricio Posada Hincapié**, soy de Medellín- Colombia, mi profesión es **Medico general** y **mi especialidad es Marketing digital.**....
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Si , así como lo lees, **soy un médico especialista en marketing digital.** De seguro te debes estar preguntando que clase de especialidad es. Déjame decirte que *es una especialidad que yo inventé para mi vida*, es decir, yo no inventé el marketing digital, me refiero a** que me reinventé con el marketing digital.** 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Se vale empezar de cero para encontrar y encaminarte a lo que verdaderamente te apasiona y amas hacer. En medicina  casi todos buscan una especialidad y yo busqué una también. **Me especialicé en buscar algo que me hiciera feliz  y apasionado profesionalmente y no parar hasta encontrarlo.**
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+No quiero decir que odio la medicina. Estoy eternamente agradecido por sus enseñanzas y todo lo que me ha brindado. Sincerándome contigo, la quiero, pero **no me apasiona.** No es lo que quiero hacer toda mi vida, **no quiero estar las 24/7** **en un hospital**.....*quiero vivir y disfrutar las cosas lindas de la vida, teniendo un activo fundamental...**TIEMPO**.*
+
+**
+**
+
+**UNIENDO CABOS SUELTOS **
+
+ 
+
+###### ![](https://1.bp.blogspot.com/-6qczZEaL3zo/YKVE4VBGT_I/AAAAAAAAJdA/o6uWRwGsC5A34zbMxiAq3no07-jx3ISXQCLcBGAsYHQ/w416-h168/fondo%2Bgracias%2521%2521.jpg)&#xA; &#xA;The world always seems brighter when you’ve just made something that wasn’t there before. Neil Gaimanolk 
 
 As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
