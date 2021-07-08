@@ -33,7 +33,7 @@ subtitle: Esta es una breve página sobre mi y cómo llegué hasta aquí
 ---
 Mi nombre es **Mauricio Posada Hincapié**, soy de Medellín- Colombia, mi profesión es **Medico general** y **mi especialidad es Marketing digital.**....
 
-Si , así como lo lees, **soy un médico especialista en marketing digital.** De seguro te debes estar preguntando que clase de especialidad es. Déjame decirte que *es una especialidad que yo inventé para mi vida*, es decir, yo no inventé el marketing digital, me refiero a** que me reinventé con el marketing digital.** 
+Si , así como lo lees, **soy un médico especialista en marketing digital.** De seguro te debes estar preguntando que clase de especialidad es. Déjame decirte que *es una especialidad que yo inventé para mi vida*, es decir, yo no inventé el marketing digital, me refiero a\*\* que me reinventé con el marketing digital.\*\* 
 
 Se vale empezar de cero para encontrar y encaminarte a lo que verdaderamente te apasiona y amas hacer. En medicina  casi todos buscan una especialidad y yo busqué una también. **Me especialicé en buscar algo que me hiciera feliz  y apasionado profesionalmente y no parar hasta encontrarlo.**
 
@@ -42,12 +42,35 @@ No quiero decir que odio la medicina. Estoy eternamente agradecido por sus ense�
 **
 **
 
-**UNIENDO CABOS SUELTOS **
+#### **UNIENDO CABOS SUELTOS **
+
+****
+
+###### ![](https://1.bp.blogspot.com/-6qczZEaL3zo/YKVE4VBGT_I/AAAAAAAAJdA/o6uWRwGsC5A34zbMxiAq3no07-jx3ISXQCLcBGAsYHQ/w416-h168/fondo%2Bgracias%2521%2521.jpg)
+
 
  
 
-###### ![](https://1.bp.blogspot.com/-6qczZEaL3zo/YKVE4VBGT_I/AAAAAAAAJdA/o6uWRwGsC5A34zbMxiAq3no07-jx3ISXQCLcBGAsYHQ/w416-h168/fondo%2Bgracias%2521%2521.jpg)&#xA; &#xA;The world always seems brighter when you’ve just made something that wasn’t there before. Neil Gaimanolk 
+¿Cómo llegue aquí? Pues, me considero alguien muy curiosos y amante de la tecnología digital. Sabía el movimiento que estaba teniendo el mundo con la **4ta revolución industrial y quería estar ahí.**
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+Teniendo consciencia de esto, había terminado un a diplomatura en medicina china en la universidad de Antioquia en el 2019. Tenía que aprende a promocionar mis servicios. Previamente había realizado un curso de **fundamentos de marketing digital con Google actívate.** Esto me abrió la mente de una forma increíble, de hecho me encantó. 
 
-*Thank You for reading!*
+Así que con este conocimiento fui explorando lo básico. Cada vez se habrían abanicos de conocimientos únicos posibilidades extraordinarias.  Inicié a enamorarme más y más de esta hermosa arte digital y te digo algo... me enganchó, me enamoró, **fue amor a primera vista.**
+
+A groso modo **ese soy yo, un medico con una especialidad digital y personal de crecer exponencialmente como persona y profesional día tras día como el KAIZEN. Con mis motivaciones, mis locuras y mis deseos.**
+
+*Sueño que mi prosperidad económica se funde en el marketing digital, las inversiones y destinar la medicina como un **acto únicamente altruista*** a personas que realmente lo necesitan. Me gusta ir al gimnasio, practico la batería, leo con frecuencia
+
+#### ****
+
+# *¿Qué estas esperando para especializarte?*
+
+###
+
+*
+*
+
+
+
+
+**
