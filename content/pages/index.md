@@ -11,11 +11,24 @@ sections:
   - section_id: about
     type: section_content
     title: propósito
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      ## **¿Sabias que abrir un consultorio es igual a iniciar un
+      emprendimiento?**
+
+
+      **El problema #1 de cualquier emprendimiento es la falta de ventas o
+      pacientes.**
+
+
+      ** En este Blog quiero inspirar a médicos / emprendedores** a crecer en su
+      área laboral y personal utilizando herramientas digitales como el inbound
+      y outbound marketing,  márketing médico, análisis de datos, copywriting,
+      entre otras.
+
+
+      **Impactar** de manera potente sus **ingresos, de manera rápida y
+      efectiva**. Consolidarlos como referentes en el mercado y ayudarles a
+      conseguir sus sueños.
     actions:
       - label: Contact Me
         url: /contact
