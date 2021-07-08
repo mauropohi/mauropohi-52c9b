@@ -1,6 +1,5 @@
 ---
 title: Acerca de mi...
-subtitle: Esta es una breveágina sobre mí y mi trabajo.
 img_path: /images/20210708_092819.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
