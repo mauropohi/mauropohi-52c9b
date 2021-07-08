@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Acerca de mi...
 subtitle: This is a short page about me and my work.
 img_path: /images/20210708_092819.jpg
 img_alt: Portrait of a man with beard and mustache
