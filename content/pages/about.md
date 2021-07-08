@@ -39,8 +39,6 @@ Se vale empezar de cero para encontrar y encaminarte a lo que verdaderamente te 
 
 No quiero decir que odio la medicina. Estoy eternamente agradecido por sus enseñanzas y todo lo que me ha brindado. Sincerándome contigo, la quiero, pero **no me apasiona.** No es lo que quiero hacer toda mi vida, **no quiero estar las 24/7** **en un hospital**.....*quiero vivir y disfrutar las cosas lindas de la vida, teniendo un activo fundamental...**TIEMPO**.*
 
-
-
 #### \*\*UNIENDO CABOS SUELTOS \*\*
 
 ***
@@ -57,13 +55,6 @@ A groso modo **ese soy yo, un medico con una especialidad digital y personal d
 
 *Sueño que mi prosperidad económica se funde en el marketing digital, las inversiones y destinar la medicina como un **acto únicamente altruista*** a personas que realmente lo necesitan. Me gusta ir al gimnasio, practico la batería, leo con frecuencia
 
-#### \*\*\*\*
+####
 
 # *¿Qué estás esperando para especializarte?*
-
-###
-
-*
-*
-
-\*\*
