@@ -36,6 +36,5 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 layout: post
-thumb_img_path: /images/LM Logo blanco 800x800 para viedeos y fotos.png
 ---
 <https://www.youtube.com/watch?v=IVzhF53h7MY>
