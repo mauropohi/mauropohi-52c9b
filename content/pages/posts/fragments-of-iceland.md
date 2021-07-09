@@ -38,4 +38,3 @@ seo:
 layout: post
 thumb_img_path: /images/logo kadabra facebook.png
 ---
-<https://www.youtube.com/watch?v=IVzhF53h7MY>
