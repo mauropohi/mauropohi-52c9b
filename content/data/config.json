@@ -71,7 +71,7 @@
                 "label": "DEV",
                 "url": "https://dev.to/",
                 "style": "icon",
-                "icon_class": "dev",
+                "icon_class": "twitter",
                 "new_window": true
             }
         ]
