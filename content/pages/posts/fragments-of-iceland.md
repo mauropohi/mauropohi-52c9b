@@ -1,7 +1,7 @@
 ---
 title: Primeros pasos...
 excerpt: Kadabra Marketing
-date: '2019-03-27'
+date: '2021-07-27'
 thumb_img_alt: Icelandic horses
 content_img_path: images/7.jpg
 content_img_alt: Icelandic horses
