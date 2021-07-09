@@ -3,7 +3,7 @@ title: Primeros pasos...
 excerpt: Kadabra Marketing
 date: '2021-07-09'
 thumb_img_alt: Icelandic horses
-content_img_path: /images/logo kadabra facebook 2.png
+content_img_path: /images/KM logo Neg 180x180 perfil fan page.png
 content_img_alt: Icelandic horses
 seo:
   title: Fragments of Iceland
