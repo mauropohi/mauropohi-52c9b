@@ -2,7 +2,6 @@
 title: Primeros pasos...
 excerpt: Kadabra Marketing
 date: '2021-07-09'
-thumb_img_alt: I
 content_img_alt: Icelandic horses
 seo:
   title: Fragments of Iceland
