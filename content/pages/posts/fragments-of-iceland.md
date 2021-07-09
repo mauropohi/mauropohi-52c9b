@@ -1,6 +1,6 @@
 ---
 title: Primeros pasos...
-excerpt: Kadabra Marketing
+excerpt: "Kadabra Marketing fue mi primer reto.\_Nace como la idea de\_Emprendimiento digital como Trafficker Digital.\_Agencia de Marketing digital. Su lema es\_\"la magia de traer clientes para su negocio comienza con usted\".\_**\_Fue mi primer acercamiento a internet de forma profesional,\_**desde el punto de vista de quien maneja una pagina web para ofrecer un servicio y no de quien la visita\_ con todo el arduo proceso que esto requiere."
 date: '2021-07-09'
 seo:
   title: Fragments of Iceland
