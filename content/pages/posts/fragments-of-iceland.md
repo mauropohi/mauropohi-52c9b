@@ -1,6 +1,6 @@
 ---
 title: Primeros pasos...
-excerpt: 'https://www.youtube.com/watch?v=IVzhF53h7MY'
+excerpt: Kadabra Marketing
 date: '2019-03-27'
 thumb_img_alt: Icelandic horses
 content_img_path: images/7.jpg
