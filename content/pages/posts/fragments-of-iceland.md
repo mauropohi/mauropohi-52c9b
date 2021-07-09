@@ -33,7 +33,7 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 layout: post
-thumb_img_path: /images/logo kadabra facebook.png
+thumb_img_path: /images/333x333.png
 content_img_path: /images/LM Logo blanco 800x800 para viedeos y fotos.png
 ---
 **Kadabra Marketing fue mi primer reto.** Nace como la idea de **Emprendimiento digital como Trafficker Digital.** Agencia de Marketing digital. Su lema es *"la magia de traer clientes para su negocio comienza con usted".* ** Fue mi primer acercamiento a internet de forma profesional, **desde el punto de vista de quien maneja una pagina web para ofrecer un servicio y no de quien la visita  con todo el arduo proceso que esto requiere.
