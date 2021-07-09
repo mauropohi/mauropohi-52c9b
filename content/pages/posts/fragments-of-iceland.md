@@ -2,7 +2,6 @@
 title: Primeros pasos...
 excerpt: Kadabra Marketing
 date: '2021-07-09'
-content_img_alt: Icelandic horses
 seo:
   title: Fragments of Iceland
   description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
