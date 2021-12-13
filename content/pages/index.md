@@ -21,7 +21,7 @@ sections:
       pacientes.**
 
 
-      En este Blog quiero **inspirar a médicos-emprendedores** a crecer en su
+      En este Blog quiero **inspirar a médicos y emprendedores** a crecer en su
       área laboral y personal **utilizando herramientas digitales** como el
       inbound y outbound marketing, automatización,  marketing médico, marketing
       de afiliación, análisis de datos, copywriting, entre otras.
