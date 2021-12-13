@@ -6,8 +6,9 @@ sections:
     type: section_hero
     title: 'Hola, soy Mauricio Posada Hincapié, Médico y Marketer Digital'
     content: >
-      Me enfoco en el Growth hacking marketing aplicado al área de la salud para
-      médicos especialistas #marketingmédico y el marketing de afiliación
+      Me enfoco en la automatización de procesos en marketing digital, chatbots.
+      Marketing aplicado al área de la salud (principalmente médicos generales y
+      especialistas) #marketingmédico y el Marketing de afiliación.
   - section_id: about
     type: section_content
     title: propósito
