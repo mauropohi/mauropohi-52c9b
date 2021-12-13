@@ -23,8 +23,8 @@ sections:
 
       En este Blog quiero **inspirar a médicos-emprendedores** a crecer en su
       área laboral y personal **utilizando herramientas digitales** como el
-      inbound y outbound márketing,  márketing médico, márketing de afiliación,
-      análisis de datos, copywriting, entre otras.
+      inbound y outbound marketing, automatización,  marketing médico, marketing
+      de afiliación, análisis de datos, copywriting, entre otras.
 
 
       **Impactar** de manera potente sus **ingresos, de manera rápida y
